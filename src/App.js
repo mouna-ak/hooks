@@ -10,28 +10,28 @@ import './App.css';
 const films = [
   {
     id: 1,
-    title: 'The Matrix',
+    title: 'Her',
     description:
-      'A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.',
-    posterURL: "https://th.bing.com/th/id/OIP.mCr3x90hubrByxx2xp21EwHaLH?w=201&h=302&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      'Depressed because of his impending divorce from his childhood sweetheart Catherine, Theodore purchases an operating system upgrade that includes a virtual assistant with artificial intelligence.',
+    posterURL: "https://m.media-amazon.com/images/I/41Eb7WxmYNL._AC_.jpg",
     rating: 8.7,
     status: 'Released'
   },
   {
     id: 2,
-    title: 'Jurassic Park',
+    title: 'El camino',
     description:
-      'A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park\'s cloned dinosaurs to run loose.',
-    posterURL: 'https://th.bing.com/th/id/R.9f707fb87a8d2c04301b5de3c8f4a8ae?rik=dBYDE2Y7QfVvpw&pid=ImgRaw&r=0',
+      'It continues the story of Jesse Pinkman, who partnered with former teacher Walter White throughout the series to build a crystal meth empire based in Albuquerque.',
+    posterURL: 'https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_.jpg',
     rating: 7.9,
     status: 'Released'
   },
   {
     id: 3,
-    title: 'Star Wars: Episode IV - A New Hope',
+    title: 'Ozark',
     description:
-      'Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire\'s world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.',
-    posterURL: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81aA7hEEykL._AC_UF1000,1000_QL80_.jpg',
+      'A financial adviser drags his family from Chicago to the Missouri Ozarks, where he must launder $500 million in five years to appease a drug boss..',
+    posterURL: 'https://resizing.flixster.com/pMyRj7F9A0YdUaKBPszm8-BNkeA=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vUlRUVjY4ODQ0OC53ZWJw',
     rating: 8.6,
     status: 'Released'
   }
